@@ -18,14 +18,14 @@ This project provides a data-driven solution to identify high-risk patient cohor
 
 📂 Project Structure
 
-raw_data/
+- raw_data/
   Original Kaggle dataset (source data)
 
-python_analysis/
+- python_analysis/
   patient_readmission_analysis_v1.ipynb
   processed_healthcare_data_2026.csv
 
-PowerBI_Dashboard/
+- PowerBI_Dashboard/
   Patient Readmission & Financial Risk Dashboard.pbix
 
 🧪 Data Engineering & Methodology
