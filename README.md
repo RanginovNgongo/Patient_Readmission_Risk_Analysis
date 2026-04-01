@@ -16,20 +16,17 @@ This project provides a data-driven solution to identify high-risk patient cohor
 - Business Intelligence: Power BI (DAX, Data Modeling)
 - Environment: Jupyter Notebook
 
-📁 Project Structure.
-├── raw_data/
-│   └── Original Kaggle dataset
-│
-├── python_analysis/
-│   ├── patient_readmission_analysis_v1.ipynb
-│   │   └── Data cleaning & feature engineering
-│   └── processed_healthcare_data_2026.csv
-│       └── Cleaned data for Power BI
-│
-├── PowerBI_Dashboard/
-│   └── Patient Readmission & Financial Risk Dashboard.pbix
-│
-└── README.md
+📂 Project Structure
+
+raw_data/
+  Original Kaggle dataset (source data)
+
+python_analysis/
+  patient_readmission_analysis_v1.ipynb
+  processed_healthcare_data_2026.csv
+
+PowerBI_Dashboard/
+  Patient Readmission & Financial Risk Dashboard.pbix
 
 🧪 Data Engineering & Methodology
 Before visualization, the raw data underwent extensive "Business Logic" transformation in Python:
