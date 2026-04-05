@@ -47,7 +47,10 @@ The final Power BI dashboard serves as a decision-support tool for Hospital Admi
 
 ## 📸 PowerBI Dashboard
 
-<img width="1168" height="658" alt="image" src="https://github.com/user-attachments/assets/92d5c8a2-4bd8-46d3-be8b-3ecf3fee8ec8" />
+<img width="1217" height="687" alt="image" src="https://github.com/user-attachments/assets/8d78e4cb-f358-4ff6-b16b-412f869358d3" />
+
+<img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/0ce319fe-dd69-4389-bb96-117eddfaf00a" />
+
 
 ## 🚀 How to Use
 - **Python:** Open `patient_readmission_analysis_v1.ipynb` to view the data transformation pipeline.
